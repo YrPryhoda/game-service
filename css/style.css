@@ -1,0 +1,15 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.btn-coral {
+  outline: none;
+  border: 1px solid rgb(121, 121, 121);
+  background-color: #ff7f50;
+  color: #ffffff;
+}
+
+.btn-coral:hover {
+  background-color: #da673d;
+  color: #ffffff;
+}
